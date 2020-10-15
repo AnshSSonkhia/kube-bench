@@ -79,7 +79,7 @@ groups:
 
 These subgroups have `id`, `text` fields which serve the same purposes described
 in the previous paragraphs. The most important part of the subgroup is the
-`checks` field which is the collection of actual `check`s that form the subgroup.
+`checks` field which is the collection of actual `checks` that form the subgroup.
 
 This is an example of a subgroup and checks in the subgroup.
 
